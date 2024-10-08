@@ -21,7 +21,7 @@ Features:
     * Simulates the thermodynamic performance of multiple cycles using MATLAB.
 
 Contents:
-Code/: maim.m files for 3E analysis and simulation.
+Code/: main.m files for 3E analysis and simulation.
        Property functions for seawater.
 Report/: Project report summarizing the methodology, validation, and results.
 
